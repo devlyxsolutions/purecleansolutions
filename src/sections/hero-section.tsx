@@ -80,9 +80,9 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
           >
-            Professional Cleaning Services{" "}
+Professional Domestic & Commercial{" "}
             <span className="bg-clip-text text-transparent bg-linear-to-r from-green-700 to-green-500">
-              for Homes & Businesses
+Cleaning Services in the UK
             </span>
           </motion.h1>
 
