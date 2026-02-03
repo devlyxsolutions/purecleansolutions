@@ -72,7 +72,7 @@ export default function ContactSection() {
           transition={{ delay: 0.2 }}
         >
           <h3 className="text-2xl font-bold text-green-600 mb-6 text-center">
-            Send Us a Message
+            Get Your Free Cleaning Quote
           </h3>
           <form className="grid gap-6">
             {/* Name */}
