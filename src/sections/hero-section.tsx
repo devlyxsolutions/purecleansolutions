@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
     <section className="relative min-h-screen bg-[#f9fafb] px-6 sm:px-16 pt-10 pb-10 overflow-hidden">
       {/* ================= GRID BACKGROUND (DARKER) ================= */}
-      <div
+      {/* <div
         className="absolute inset-0 pointer-events-none"
         style={{
           backgroundImage: `
@@ -14,7 +14,7 @@ export default function HeroSection() {
           `,
           backgroundSize: "80px 80px",
         }}
-      />
+      /> */}
 
       {/* ================= AMBIENT BLURS ================= */}
       <div className="absolute -top-40 -left-40 w-130 h-130 bg-green-300/20 blur-[280px] -z-10 rounded-full" />
