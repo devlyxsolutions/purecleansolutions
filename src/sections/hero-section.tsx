@@ -93,9 +93,7 @@ Cleaning Services in the UK
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.1 }}
           >
-            Pure Clean Solutions delivers expert cleaning services tailored for
-            your home or office. Reliable, eco-friendly, and affordable —
-            creating spotless spaces with care.
+Trusted by homes and businesses across the UK for reliable, eco-friendly cleaning solutions.
           </motion.p>
 
           {/* CTA BUTTONS */}
